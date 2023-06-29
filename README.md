@@ -55,10 +55,18 @@ Key tasks
 
 I use Power BI for this step.
 
-![Overview](/Overview.pdf)
+![Overview](/Overview.png)
 
 ## Share the insights:
 
 After carefully reviewing the data, I found some insights that I can use it to answer the questions Morena asked me. 
 I created a presentation file to show my visualizations, including the three top recommendations to convert casual riders into annual members based on my analysis.
-Presentation file pdf is [here](https://docs.google.com/presentation/d/1ySD_ZM-x-Il9xukyiiSo9vt72igBL5nUaizAq0Myg3Y/edit?usp=sharing).
+The presentation file is [here](https://docs.google.com/presentation/d/1ySD_ZM-x-Il9xukyiiSo9vt72igBL5nUaizAq0Myg3Y/edit?usp=sharing).
+
+## Three recommendations: 
+are valid strategies to convert casual riders into members and increase customer loyalty for Cyclistic's bike rental service:
+
+1. Use social media and digital ads to target Casual riders with messaging that emphasizes the benefits of membership, such as cost savings and convenience. Especially during weekends and in summer.
+2. Consider running marketing campaigns specifically targeting casual riders at the “Streeter Dr & Grand Ave” station. That is a great strategy to remind them of the benefits of membership and encourage them to make a longer-term commitment to the service.
+3. Offering discounts or promotions for annual memberships can incentivize casual riders to commit to the service and become loyal customers. This approach can help increase revenue and improve customer retention. Provide incentives for longer biking sessions.
+

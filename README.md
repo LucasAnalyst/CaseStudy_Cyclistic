@@ -63,8 +63,8 @@ After carefully reviewing the data, I found some insights that I can use it to a
 I created a presentation file to show my visualizations, including the three top recommendations to convert casual riders into annual members based on my analysis.
 The presentation file is [here](https://docs.google.com/presentation/d/1ySD_ZM-x-Il9xukyiiSo9vt72igBL5nUaizAq0Myg3Y/edit?usp=sharing).
 
-## Three recommendations: 
-are valid strategies to convert casual riders into members and increase customer loyalty for Cyclistic's bike rental service:
+##  Recommendations: 
+The top Three recommendations are valid strategies to convert casual riders into members and increase customer loyalty for Cyclistic's bike rental service:
 
 1. Use social media and digital ads to target Casual riders with messaging that emphasizes the benefits of membership, such as cost savings and convenience. Especially during weekends and in summer.
 2. Consider running marketing campaigns specifically targeting casual riders at the “Streeter Dr & Grand Ave” station. That is a great strategy to remind them of the benefits of membership and encourage them to make a longer-term commitment to the service.

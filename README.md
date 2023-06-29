@@ -32,7 +32,7 @@ From the [Data Source](https://divvy-tripdata.s3.amazonaws.com/index.html), I do
 To process the data from dirty to clean, I'll use Python in VS Code. The previous 12 months of Cyclistic trip data are a large dataset so I think I should use a powerful programming language that offers a number of powerful data processing libraries. Python is a good choice for this task and I'm more familiar with it. After Process and Clean step, I consider using Microsoft Power BI to Analyze and Visualize the data.
 
 ### Data Cleaning and Preparation:
-Looking for my Python notebook file [here]().
+Looking for my Python notebook file [here](https://github.com/LucasAnalyst/CaseStudy_Cyclistic/blob/main/Cyclistic_bike_share_clean.ipynb).
 - Create a Python environment in VS Code for working with data.
 - Use Markdown to document all my work.
 - Read and combine 12-month data into one data frame, wrangle it then clean it.
@@ -55,10 +55,10 @@ Key tasks
 
 I use Power BI for this step.
 
-[Overview]()
+![Overview](/Overview.pdf)
 
 ## Share the insights:
 
 After carefully reviewing the data, I found some insights that I can use it to answer the questions Morena asked me. 
 I created a presentation file to show my visualizations, including the three top recommendations to convert casual riders into annual members based on my analysis.
-Presentation file pdf is [here]().
+Presentation file pdf is [here](https://docs.google.com/presentation/d/1ySD_ZM-x-Il9xukyiiSo9vt72igBL5nUaizAq0Myg3Y/edit?usp=sharing).

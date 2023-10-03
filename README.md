@@ -67,7 +67,17 @@ Download the presentation file [here](https://github.com/LucasAnalyst/CaseStudy_
 ##  Recommendations: 
 The top Three recommendations are valid strategies to convert casual riders into members and increase customer loyalty for Cyclistic's bike rental service:
 
-1. Use social media and digital ads to target Casual riders with messaging that emphasizes the benefits of membership, such as cost savings and convenience. Especially during weekends and in summer.
-2. Consider running marketing campaigns specifically targeting casual riders at the “Streeter Dr & Grand Ave” station. That is a great strategy to remind them of the benefits of membership and encourage them to make a longer-term commitment to the service.
-3. Offering discounts or promotions for annual memberships can incentivize casual riders to commit to the service and become loyal customers. This approach can help increase revenue and improve customer retention. Provide incentives for longer biking sessions.
+1. **Best season for business - Summer**
+
+     The month with the highest number of users is July, so the marketing team can launch a campaign to show off the benefits of membership in June. Maximize conversions before the peak season.
+
+3. **Weekend Ads and Membership Benefits**
+
+     Consider using the weekend to run member introduction ads will have the most conversion opportunities. Customers with the longest vehicle usage will receive the benefit of a membership package subscription discount.
+
+4. **Refer and earn**
+
+     Encourage Cyclistic members to invite their colleagues or friends to sign up as new members by providing referral incentives.
+
+
 

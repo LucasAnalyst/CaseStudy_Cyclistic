@@ -61,7 +61,7 @@ I use Power BI for this step. The link of Power BI file is [here](https://drive.
 
 After carefully reviewing the data, I found some insights that I can use it to answer the questions Morena asked me. 
 I created a presentation file to show my visualizations, including the three top recommendations to convert casual riders into annual members based on my analysis.
-The presentation file is [here](https://docs.google.com/presentation/d/1ySD_ZM-x-Il9xukyiiSo9vt72igBL5nUaizAq0Myg3Y/edit?usp=sharing).
+Download the presentation file [here](https://github.com/LucasAnalyst/CaseStudy_Cyclistic/blob/main/Cyslistic_bike_share_Presentation.pptx).
 
 ##  Recommendations: 
 The top Three recommendations are valid strategies to convert casual riders into members and increase customer loyalty for Cyclistic's bike rental service:
